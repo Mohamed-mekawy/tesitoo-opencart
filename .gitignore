@@ -2,9 +2,9 @@
 
 ### OpenCart ###
 
-config.php
-admin/config.php
-api/v1/config.php
+#config.php
+#admin/config.php
+#api/v1/config.php
 
 !index.html
 
